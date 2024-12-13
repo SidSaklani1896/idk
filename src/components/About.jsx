@@ -34,7 +34,7 @@ const About = () => {
         </p>
 
         <AnimatedTitle
-          title="REDIFINGING THE OPEN WORLD GAMING"
+          title="REDEFINING THE OPEN WORLD GAMING"
           containerClass="mt-5 !text-black text-center"
         />
 
