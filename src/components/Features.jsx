@@ -144,7 +144,7 @@ const Features = () => (
                 A DYNAMIC GAMEPLAY UNIVERSE
               </>
             }
-            description="Boulevard is a player-driven world where every interaction shapes the ecosystem. Combining real players with AI, it offers authentic encounters, from negotiating trades to epic battles. Massive multiplayer campaigns unite players for shared goals, while collaborative worldbuilding lets you create cities, forge alliances, and tackle dynamic quests. With a living economy and evolving environment, Boulevard delivers a universe of infinite depth."
+            description="Boulevard is a player-driven world where every interaction shapes the ecosystem. Combining real players with AI, it offers authentic encounters, from negotiating trades to epic battles."
           />
         </BentoTilt>
 
@@ -156,7 +156,7 @@ const Features = () => (
                 CONNECTING PLAYERS ACROSS TIME AND SPACE
               </>
             }
-            description="Boulevard is a player-driven world where every interaction shapes the ecosystem. Combining real players with AI, it offers authentic encounters, from negotiating trades to epic battles. Massive multiplayer campaigns unite players for shared goals, while collaborative worldbuilding lets you create cities, forge alliances, and tackle dynamic quests. With a living economy and evolving environment, Boulevard delivers a universe of infinite depth."
+            description="Boulevard’s multiplayer infrastructure connects players globally with low-latency, real-time interactions. Designed for all skill levels, it offers intuitive mechanics for battles, trading, and exploration. With time-layered gameplay, players can shape the past and future, creating ripples felt across the game world."
           />
         </BentoTilt>
 
