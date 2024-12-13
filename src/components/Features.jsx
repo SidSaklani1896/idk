@@ -115,11 +115,10 @@ const Features = () => (
           src="videos/feature-1.mp4"
           title={
             <>
-              radia<b>n</b>t
+              Own and trade assets
             </>
           }
-          description="A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure."
-          isComingSoon
+          description="Buy and sell unique in-game assets like home, shops and many more, with values that shift based on demand. Your strategic choices shape both journey and the Boulevard economy"
         />
       </BentoTilt>
 
