@@ -108,11 +108,6 @@ const FloatingImage = () => {
             <p className="mt-3 max-w-sm text-center font-circular-web text-violet-50 md:text-start">
               Boulevard combines scalable infrastructure, advanced mechanics, and constant innovation to deliver a groundbreaking, ever-evolving gaming experience for a growing global community.
             </p>
-            <Button
-              id="realm-btn"
-              title="discover prologue"
-              containerClass="mt-5"
-            />
           </div>
         </div>
       </div>
