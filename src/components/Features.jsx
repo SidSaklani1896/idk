@@ -103,12 +103,10 @@ const Features = () => (
     <div className="container mx-auto px-3 md:px-10">
       <div className="px-5 py-32">
         <p className="font-circular-web text-lg text-blue-50">
-          Into the Metagame Layer
+          Step into the ever-evolving world of Boulevard
         </p>
         <p className="max-w-md font-circular-web text-lg text-blue-50 opacity-50">
-          Immerse yourself in a rich and ever-expanding universe where a vibrant
-          array of products converge into an interconnected overlay experience
-          on your world.
+          An expansive fantasy universe where players shape their destinies. Immerse yourself in a thriving ecosystem where diverse assets and player driven economies converge into a seamlessly interconnected realm of endless possibilities.
         </p>
       </div>
 
