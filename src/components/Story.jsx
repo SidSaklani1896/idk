@@ -54,7 +54,7 @@ const FloatingImage = () => {
 
         <div className="relative size-full">
           <AnimatedTitle
-            title="Creating Unstoppable Momentum"
+            title="Unstoppable Momentum"
             containerClass="mt-5 pointer-events-none mix-blend-difference relative z-10"
           />
 
