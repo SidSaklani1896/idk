@@ -128,10 +128,10 @@ const Features = () => (
             src="videos/feature-2.mp4"
             title={
               <>
-                zig<b>m</b>a
+                A time bending adventure
               </>
             }
-            description="An anime and gaming-inspired NFT collection - the IP primed for expansion."
+            description="Step into the life of Sifra, the enigmatic hero of Boulevard, on a quest to restore balance to a fractured timeline. Spanning centuries and dimensions, Sifra’s journey invites players to explore a multiverse shaped by their choices, encountering rich characters, solving puzzles, and navigating moral dilemmas. With branching narratives and a living world that evolves based on your actions, Boulevard offers an epic tale of discovery, legacy, and transformation where every decision matters."
             isComingSoon
           />
         </BentoTilt>
