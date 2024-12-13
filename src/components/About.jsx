@@ -34,14 +34,14 @@ const About = () => {
         </p>
 
         <AnimatedTitle
-          title="Disc<b>o</b>ver the world's <br /> largest shared <b>a</b>dventure"
+          title="REDIFINGING THE OPEN <br /> WORLD GAMING"
           containerClass="mt-5 !text-black text-center"
         />
 
         <div className="about-subtext">
-          <p>The Game of Games begins—your life, now an epic MMORPG</p>
+          <p>The ultimate world-building adventure begins. Your journey in Boulevard</p>
           <p className="text-gray-500">
-          Discover a revolutionary gaming universe that blends immersive gameplay, player-driven economies, and blockchain innovation. Step into a world where every action has value, every player shapes the story, and the adventure never ends.
+          Transforms into a limitless fantasy RPG, Boulevard connects players across a single server, merging digital innovation and real-world value through a unified economy powered by player-driven choices and Web3 Technology
           </p>
         </div>
       </div>
