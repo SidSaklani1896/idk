@@ -141,11 +141,10 @@ const Features = () => (
             src="videos/feature-3.mp4"
             title={
               <>
-                n<b>e</b>xus
+                A DYNAMIC GAMEPLAY UNIVERSE
               </>
             }
-            description="A gamified social hub, adding a new dimension of play to social interaction for Web3 communities."
-            isComingSoon
+            description="Boulevard is a player-driven world where every interaction shapes the ecosystem. Combining real players with AI, it offers authentic encounters, from negotiating trades to epic battles. Massive multiplayer campaigns unite players for shared goals, while collaborative worldbuilding lets you create cities, forge alliances, and tackle dynamic quests. With a living economy and evolving environment, Boulevard delivers a universe of infinite depth."
           />
         </BentoTilt>
 
@@ -154,11 +153,10 @@ const Features = () => (
             src="videos/feature-4.mp4"
             title={
               <>
-                az<b>u</b>l
+                CONNECTING PLAYERS ACROSS TIME AND SPACE
               </>
             }
-            description="A cross-world AI Agent - elevating your gameplay to be more fun and productive."
-            isComingSoon
+            description="Boulevard is a player-driven world where every interaction shapes the ecosystem. Combining real players with AI, it offers authentic encounters, from negotiating trades to epic battles. Massive multiplayer campaigns unite players for shared goals, while collaborative worldbuilding lets you create cities, forge alliances, and tackle dynamic quests. With a living economy and evolving environment, Boulevard delivers a universe of infinite depth."
           />
         </BentoTilt>
 
